@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#4876FF</color>
+    <color name="colorGreen">#90EE90</color>
+    <color name="colorRed">#FF4500</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorYellow">#FFFF00</color>
+    <string name="app_name">NotePad</string>
+    <string name="button_ok">OK</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">Error</string>
+    <string name="live_folder_name">Notes</string>
+    <string name="menu_add">New note</string>
+    <string name="menu_copy">Copy</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_paste">Paste</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort1">Sort by creation time</string>
+    <string name="menu_sort2">Sort by modification time</string>
+    <string name="menu_sort3">Sort by color</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">Edit title</string>
+    <string name="text_title">Title:</string>
+    <string name="title_create">New note</string>
+    <string name="title_edit">Edit: %1$s</string>
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_notes_list">Notes</string>
+</resources>
